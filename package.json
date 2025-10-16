@@ -1,0 +1,22 @@
+{
+  "name": "tododream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix back-end && npm install --prefix front-end && npm run build --prefix front-end",
+    "start": "npm run start --refix back-end"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lephuongmytrang12599/TODOAPP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lephuongmytrang12599/TODOAPP/issues"
+  },
+  "homepage": "https://github.com/lephuongmytrang12599/TODOAPP#readme"
+}
